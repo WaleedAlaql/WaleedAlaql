@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi there, I'm Waleed Alaql
+# 👋 Hi there, I'm Waleed Alaql
 
 
 ## 🌐 Socials:
