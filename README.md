@@ -1,4 +1,4 @@
-👋 Hi There, I'm Waleed Alaql 👋
+# 👋 Hi There, I'm Waleed Alaql 👋
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-alaql-5534b3301)
